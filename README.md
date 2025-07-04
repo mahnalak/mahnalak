@@ -34,3 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/>
 </p>
+---
+
+<p align="center">
+  <a href="https://github.com/mahnalak/mahnalak/blob/main/Lakshita_Mahnaa_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Lakshita Mahna Resume">
+  </a>
+</p>
