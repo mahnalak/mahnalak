@@ -62,18 +62,11 @@
 **Bachelor of Science in Computer Science**  
 Arizona State University, Tempe, AZ  
 📅 *August 2021 – May 2025* | 🎓 GPA: 3.8/4.0  
-🧠 Coursework: DSA, OOP, OS, Software Testing, ML, AI, HCI, DBMS, iOS Dev
+
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahnalak&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnalak&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
@@ -82,11 +75,3 @@ Arizona State University, Tempe, AZ
 [![GitHub](https://img.shields.io/badge/-mahnalak-black?style=flat&logo=github)](https://github.com/mahnalak)
 
 ---
-
-## 😄 Fun Fact
-
-> I’m still figuring out if I’m a programming prodigy, a Googling guru, or just really good at GPTing my way through bugs. 😄
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
