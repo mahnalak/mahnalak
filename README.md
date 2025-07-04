@@ -1,13 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Lakshita Mahna</h1>
-<h3 align="center">🚀 Software Engineer | AI x Web Dev | DSA Enthusiast</h3>
 
----
-
-🧠 **Currently**:
 - 🎓 Recent Computer Science grdaute @ ASU (GPA 3.8)
 - Actively Seeking Software Engineering Roles
 ---
+
+<p align="center">
+  <a href="https://linkedin.com/in/lmahna" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:lakshitamahna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-lakshitamahna@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/mahnalak" target="_blank">
+    <img src="https://img.shields.io/badge/-mahnalak-black?style=flat&logo=github" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ## 💻 Skills
 
@@ -45,32 +53,10 @@
 </p>
 
 
-## 🧪 Projects
-
-| 💡 Project | 🛠️ Tech Stack | 📄 Description |
-|-----------|----------------|----------------|
-| **AI-Powered Travel Planner** | React Native, Gemini AI, Firebase | Created a mobile app that generates smart travel itineraries. |
-| **Trace Guard** | Flask, Prometheus, Docker, Locust | Monitors REST API performance, visualizes metrics in Grafana. |
-| **Bookstore Management System** | Flask, PostgreSQL, Tailwind CSS | Full-stack web app with reusable components and SDLC design. |
-| **Effort Logger** | JavaFX, MySQL, MVC | Desktop app to log dev tasks and effort in Agile environments. |
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-Arizona State University, Tempe, AZ  
-📅 *August 2021 – May 2025* | 🎓 GPA: 3.8/4.0  
-
 
 ---
 
 
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lmahna)
-[![Email](https://img.shields.io/badge/-lakshitamahna@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lakshitamahna@gmail.com)
-[![GitHub](https://img.shields.io/badge/-mahnalak-black?style=flat&logo=github)](https://github.com/mahnalak)
 
 ---
