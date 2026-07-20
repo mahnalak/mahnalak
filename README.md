@@ -1,43 +1,54 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Lakshita Mahna</h1>
+# Hi 👋, I'm Lakshita Mahna
 
-- 🎓 Recently graduated with a B.S. in Computer Science from Arizona State University (GPA 3.8)
-- 💻 Passionate about full-stack development, iOS apps, and building user-focused software
-- 🚀 Experienced in React, Flask, Spring Boot, PostgreSQL, and Xcode
-- 🌱 Currently seeking full-time software engineering opportunities to create impactful solutions
+**Software & AI/ML Engineer** · SWE @ Verizon
+
+I build backend systems and AI-powered tools — high-throughput data pipelines, LLM copilots, and production-grade distributed systems in Java, C, and Python.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahnalak.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://mahnalak.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lakmahna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakmahna)
+[![Email](https://img.shields.io/badge/Email-lakshitamahna04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshitamahna04@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mahnalak/mahnalak/blob/main/Lakshita_Mahnaa_Resume.pdf)
+
+</div>
+
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/lmahna" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:lakshitamahna@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-lakshitamahna@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/mahnalak" target="_blank">
-    <img src="https://img.shields.io/badge/-mahnalak-black?style=flat&logo=github" alt="GitHub Badge"/>
-  </a>
-</p>
+## 🔭 What I'm working on
 
-## 🛠️ Tech Stack
+- ⚙️ Backend services for a **high-throughput data pipeline** at Verizon — 60K+ files every 15 minutes
+- 🤖 **[PipeSense](https://github.com/mahnalak/pipesense)** — an AI incident copilot: statistical anomaly detection + incident RAG + LLM root-cause explanations
+- 🧪 More AI tooling in progress: code-review agents, natural-language SQL, LLM eval harnesses
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/>
-</p>
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[PipeSense](https://github.com/mahnalak/pipesense)** | AI incident copilot for data pipelines — detects anomalies, retrieves similar past incidents, explains root causes | Python · FastAPI · LLM · RAG |
+| **[Portfolio](https://mahnalak.github.io)** | This site — animated pipeline hero, single-file, zero dependencies | HTML · CSS · Canvas |
+
+## 🛠️ Tech stack
+
+**Languages** — ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Backend & AI** — ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+**Tools** — ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mahnalak&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnalak&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+
+</div>
+
 ---
 
-<p align="center">
-  <a href="https://github.com/mahnalak/mahnalak/blob/main/Lakshita_Mahnaa_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Lakshita Mahna Resume">
-  </a>
-</p>
+<div align="center">
+
+🎓 B.S. Computer Science, Arizona State University (GPA 3.8) · 📍 Tampa, FL
+
+</div>
